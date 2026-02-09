@@ -19,11 +19,7 @@ joinButton.addEventListener("click", () => {
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight);
   const controls = new OrbitControls(camera, renderer.domElement);
-  controls.enableRotate = true;
-  controls.enablePan = false;
-  controls.enableZoom = false;
-  controls.maxPolarAngle = Math.PI / 2;
-  controls.minPolarAngle = Math.PI / 2;
+
 
 
   let mesh;
