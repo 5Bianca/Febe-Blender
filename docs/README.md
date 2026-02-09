@@ -1,8 +1,5 @@
 # Febe-Mentoring
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/5Bianca/pen/qByVZKE](https://codepen.io/5Bianca/pen/qByVZKE).
+The concept of FeBe was to have a metaverse where women could come and network with other women in STEM fields. 
 
-The metaverse:
-https://whimsical-beignet-c2dc41.netlify.app
-
-last updated March 29th
+The site is accessible here:
